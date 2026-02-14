@@ -4,7 +4,7 @@ This repository serves as a foundational guide for setting up a Machine Learning
 
 ## Project URL
 
-You can find the reference utility script here: [ml-project]([https://www.google.com/search?q=https://github.com/Alpha-Cassius/ml-project/blob/main/utils.py](https://docs.google.com/document/d/1Q-6Bn9-_YahgM39DndU5RKmkIN_849p95XrayWLcK4Y/edit?usp=sharing))
+You can find the reference utility script here: [ml-project/utils.py](https://docs.google.com/document/d/1Q-6Bn9-_YahgM39DndU5RKmkIN_849p95XrayWLcK4Y/edit?usp=sharing)
 
 ---
 
